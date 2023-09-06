@@ -29,7 +29,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: konulmemmedova
+          github_user_name: KonulMemmedova
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -55,4 +55,4 @@ jobs:
 
 
           
-          ![snake gif](https://github.com/konulmemmedova/konulmemmedova/blob/output/github-contribution-grid-snake.gif)
+          ![snake gif](https://github.com/KonulMemmedova/KonulMemmedova/blob/output/github-contribution-grid-snake.gif)
