@@ -1,3 +1,6 @@
+<img src="https://images.datacamp.com/image/upload/v1651047046/image8_0e61d0dad8.png" width="100%"> 
+
+
 <h1 align="center">Hi 👋, I'm KONUL MEMMEDOVA AHZVK</h1>
 <h3 align="center">A passionate Frontend developer from Azerbaijan</h3>
 
